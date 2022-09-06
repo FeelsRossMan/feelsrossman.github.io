@@ -1,7 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /about/
+tagline: About me!
+permalink: /about
+ref: about
+order: 0
 ---
 
 Evan Lahey is a former Sr. Process Engineer from the PCB industry. In July of 2022, Evan decided to leave his career as a Process Engineer to move across the country and explore alternative paths. Originally a NY native (more specifically the north shore of Long Island), Evan now lives outside of Seattle. 
