@@ -29,7 +29,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://evanlahey.com 
 # twitter_username: jekyllrb
 github_username:  FeelsRossMan
-linkedin_username: evanlahey
+linkedin:
+  username: evanlahey
+  site: https://www.linkedin.com/in/evanlahey/
 
 # Build settings
 theme: 
@@ -37,6 +39,7 @@ theme:
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
