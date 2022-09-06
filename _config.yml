@@ -32,8 +32,10 @@ github_username:  FeelsRossMan
 linkedin_username: evanlahey
 
 # Build settings
-theme: minima
+theme: 
+
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
