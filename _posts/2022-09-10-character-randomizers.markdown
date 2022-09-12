@@ -11,7 +11,7 @@ While working on that I found that Philipp Lackner has a whole tutorial Pokedex 
 
 In addition to that, I also found that League of Legends (another game I play) has a [**pretty solid open API**](https://developer.riotgames.com/docs/lol) with tons of options, so I think that'll be the next quick project. I'll start with another randomizer, just like [**ultimate bravery**](https://www.ultimate-bravery.net/), then maybe try something more involved. Not sure yet but my first thought is to do some kind of character builder app, where you can pick your champion, your load-out, which skills you level up, what your build path is, and even share it with friends. 
 
-For now I'm going to add some more functionality to the Apex Randomizer and pretty it up so its so plain. I'm not going to publish it to the app store since I just copied all the image assets straight from EA's website, but here's a link to the GitHub repo for it: [**Apex Randomizer**](https://github.com/FeelsRossMan/RandomApex)
+For now I'm going to add some more functionality to the Apex Randomizer and pretty it up so it's not so plain. I'm not going to publish it to the app store since I just copied all the image assets straight from EA's website, but here's a link to the GitHub repo for it: [**Apex Randomizer**](https://github.com/FeelsRossMan/RandomApex)
 
 I've attached a couple photos of what the app is right now below. The improvements I'd like to make are:  
 1. Add an option to remove characters from the options pool before rolling.
